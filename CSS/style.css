@@ -40,7 +40,7 @@ button{
 body::before{
     content: "";
     position: absolute;
-    background-image: url("Images/background.jpg");
+    background-image: url("../Images/background.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 627px;
@@ -178,7 +178,7 @@ footer{
 
 .our-clients{
     display: flex;
-    background-image: url("Images/background 4.jpg");
+    background-image: url("../Images/background 4.jpg");
     flex-direction: column;
     align-items: center;
 }
@@ -210,7 +210,7 @@ footer{
 .contact-us::before{
     content: "";
     position: absolute;
-    background-image: url("Images/background 3.jpg");
+    background-image: url("../Images/background 3.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 600px;
